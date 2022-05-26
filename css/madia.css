@@ -1,0 +1,160 @@
+/* @media (max-width: 866px) {
+
+} */
+
+@media(max-width: 866px) {
+    .container{
+        padding-top: 45px;
+        padding-bottom: 45px;
+        padding-left: 45px;
+        padding-right: 120px;
+    }
+}
+
+@media(max-width: 715px) {
+    .container{
+        padding-top: 23px;
+        padding-bottom: 23px;
+        padding-left: 23px;
+        padding-right: 60px;
+    }
+    .yourself {
+        
+        font-size: 40px;
+    
+    }
+    .contants {
+        padding-left: 20px;
+    
+    }
+    .tech-skills {
+        padding-left: 20px;
+    
+    }
+    .contacts-title {
+        font-size: 18px; 
+        padding-top: 5px;
+
+    }
+    .name-skill{
+        font-size: 14px;
+       
+    }
+  
+}
+@media(max-width: 500px) {
+    .container{
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .front-end {
+
+        font-size: 14px;
+
+    }
+    .yourself {
+        font-size: 30px;
+    }
+    .about-yourself {
+        max-width: auto;
+        font-size: 12px;
+    }
+
+    .project-titl {
+        font-size: 16px;
+    }
+    .project-link {
+        font-size: 11px;
+    }
+    .language-of-project {
+        font-size: 12px;
+    }
+    .vector{
+        width: auto;
+    }
+    .language-of-project {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 24px;
+    
+        color: #595959;
+    }
+
+    .work-title {
+        font-size: 18px;
+    }
+    .work-subtitle {
+        font-size: 13px;
+    }
+    .name-of-last-job {
+
+        font-size: 13px;
+    }
+    .years {
+        font-size: 12px;
+    }
+    .work-skills {
+        max-width: auto;
+        padding: 0;
+        margin-left: 15px;
+    }
+    .comment-to-work{
+        font-size: 12px;
+    }
+    .Management {
+        font-size: 12px;
+    }
+
+     .sidebar {
+    
+        padding-top: 20px;
+    }
+    .contants {
+        padding-left: 10px;
+
+    }
+    .contacts-title {
+        font-size: 17px;
+    }
+    .contact-icon {
+        font-size: 12px;
+    }
+    .telephone {
+        font-size: 12px;
+    }
+    .tech-skills {
+        padding-left: 10px;
+
+    }
+    .name-skill{
+        font-size: 12px;
+    }
+    .dot-to-orange {
+        font-size: 12px;
+    
+    }
+
+}
+@media(max-width: 375px) {
+    .container{
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        padding-right: 5px;
+    }
+    .about-yourself {
+        max-width: auto;
+     
+    }
+    .work-skills {
+        max-width: auto;
+    }
+    .project-link {
+        font-size: 10px;
+    }
+}
+
+
+
